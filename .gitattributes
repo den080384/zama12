@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+git add .
+git commit -m "Update post with detailed sections on FHE, Zama's innovations, and real-world applications"
+git push origin main
